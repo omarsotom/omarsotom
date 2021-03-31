@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omar @omarsotom
 - 👀 I’m interested in many technologies Sysops, Devops, ML
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on some proyect, do you have any aideas
+- 💞️ I’m looking to collaborate on some project, do you have any ideas
 - 📫 How to reach me in tweeter @omarsotom1
 
 <!---
